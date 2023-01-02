@@ -1,0 +1,8 @@
+.navbar-item.brand-text {
+    font-weight: 300;
+}
+
+.navbar-item, .navbar-link {
+    font-size: 14px;
+    font-weight: 700;
+  }
